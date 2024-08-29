@@ -1,0 +1,10 @@
+#Jaza Table Notes By Dilsahd Ansari :)
+`
+install - npm install --save @jazasoft/mui-table
+`
+* normal table 
+
+`
+
+`
+

@@ -1,0 +1,390 @@
+{
+    "externalId": 127341,
+    "poRef": "AIPL-24-25-0474.1",
+    "customerPoRef": "DM0DM20885-TJM REG POPLIN CHECK LS SHIRT-BULK",
+    "customerId": 247001130,
+    "seasonId": 24700221,
+    "desc": "",
+    "flowInfoList": [
+        {
+            "externalId": "127341-49143-2470031320",
+            "serialNo": 1,
+            "productId": 2470001,
+            "style": "DM0DM20885-TJM REG POPLIN CHECK LS SHIRT-BULK",
+            "styleNo": "AIPL-SHIRT-CA-35912",
+            "Fit": "",
+            "color": "Dark Night Navy Small Check - C1G(DarkNightNavySmallCheck)",
+            "orderQty": 2240,
+            "inseam": "",
+            "destination": "NL",
+            "delMode": "",
+            "exFactoryDate": "2024-09-18T00:00:00",
+            "flowRef": "AIPL-24-25-0474.1.1",
+            "customerFlowRef": "DM0DM20885-TJM REG POPLIN CHECK LS SHIRT-BULK",
+            "extra": 3,
+            "partList": [
+                {
+                    "partName": "Shell",
+                    "placement": "8",
+                    "bomCu": 1.7,
+                    "uom": "meter",
+                    "bomFabricId": 247002465,
+                    "bomFabColor": "DARK NIGHT NAVY SMALL CHECK - C1G",
+                    "bomFabColorCode": "DARKNIGHTNAVYSMALLCHECK",
+                    "fabOrderQty": 3922.24
+                }
+            ],
+            "sizeBreakupList": [
+                {
+                    "OrderColorSizeID": "127341-49143-2470031320-0",
+                    "serialNo": 1,
+                    "sizeGroup": "",
+                    "size": "TBA",
+                    "qty": 2240
+                }
+            ]
+        },
+        {
+            "externalId": "127341-49143-2470034038",
+            "serialNo": 2,
+            "productId": 2470001,
+            "style": "DM0DM20885-TJM REG POPLIN CHECK LS SHIRT-BULK",
+            "styleNo": "AIPL-SHIRT-CA-35912",
+            "Fit": "",
+            "color": "SWEETBLUE-BIGCHECK(SWEETBLUE-BIGCHECK)",
+            "orderQty": 2000,
+            "inseam": "",
+            "destination": "NL",
+            "delMode": "",
+            "exFactoryDate": "2024-09-18T00:00:00",
+            "flowRef": "AIPL-24-25-0474.1.1",
+            "customerFlowRef": "DM0DM20885-TJM REG POPLIN CHECK LS SHIRT-BULK",
+            "extra": 3,
+            "partList": [
+                {
+                    "partName": "Shell",
+                    "placement": "9",
+                    "bomCu": 1.83,
+                    "uom": "meter",
+                    "bomFabricId": 247002465,
+                    "bomFabColor": "SWEETBLUE-BIGCHECK",
+                    "bomFabColorCode": "SWEETBLUE-BIGCHECK",
+                    "fabOrderQty": 3769.8
+                }
+            ],
+            "sizeBreakupList": [
+                {
+                    "OrderColorSizeID": "127341-49143-2470034038-0",
+                    "serialNo": 2,
+                    "sizeGroup": "",
+                    "size": "TBA",
+                    "qty": 2000
+                }
+            ]
+        },
+        {
+            "externalId": "127341-49143-2470034039",
+            "serialNo": 3,
+            "productId": 2470001,
+            "style": "DM0DM20885-TJM REG POPLIN CHECK LS SHIRT-BULK",
+            "styleNo": "AIPL-SHIRT-CA-35912",
+            "Fit": "",
+            "color": "BrightVermillion-BigCheck(BrightVermillion-BigCheck)",
+            "orderQty": 1440,
+            "inseam": "",
+            "destination": "NL",
+            "delMode": "",
+            "exFactoryDate": "2024-09-18T00:00:00",
+            "flowRef": "AIPL-24-25-0474.1.1",
+            "customerFlowRef": "DM0DM20885-TJM REG POPLIN CHECK LS SHIRT-BULK",
+            "extra": 3,
+            "partList": [
+                {
+                    "partName": "Shell",
+                    "placement": "2",
+                    "bomCu": 1.83,
+                    "uom": "meter",
+                    "bomFabricId": 247002465,
+                    "bomFabColor": "BRIGHTVERMILLION-BIGCHECK",
+                    "bomFabColorCode": "BRIGHTVERMILLION-BIGCHECK",
+                    "fabOrderQty": 2714.256
+                }
+            ],
+            "sizeBreakupList": [
+                {
+                    "OrderColorSizeID": "127341-49143-2470034039-0",
+                    "serialNo": 3,
+                    "sizeGroup": "",
+                    "size": "TBA",
+                    "qty": 1440
+                }
+            ]
+        },
+        {
+            "externalId": "127341-49143-2470034041",
+            "serialNo": 4,
+            "productId": 2470001,
+            "style": "DM0DM20885-TJM REG POPLIN CHECK LS SHIRT-BULK",
+            "styleNo": "AIPL-SHIRT-CA-35912",
+            "Fit": "",
+            "color": "Newsprint-BigCheck(Newsprint-BigCheck)",
+            "orderQty": 1440,
+            "inseam": "",
+            "destination": "NL",
+            "delMode": "",
+            "exFactoryDate": "2024-09-18T00:00:00",
+            "flowRef": "AIPL-24-25-0474.1.1",
+            "customerFlowRef": "DM0DM20885-TJM REG POPLIN CHECK LS SHIRT-BULK",
+            "extra": 3,
+            "partList": [
+                {
+                    "partName": "Shell",
+                    "placement": "4",
+                    "bomCu": 1.83,
+                    "uom": "meter",
+                    "bomFabricId": 247002465,
+                    "bomFabColor": "NEWSPRINT-BIGCHECK",
+                    "bomFabColorCode": "NEWSPRINT-BIGCHECK",
+                    "fabOrderQty": 2714.256
+                }
+            ],
+            "sizeBreakupList": [
+                {
+                    "OrderColorSizeID": "127341-49143-2470034041-0",
+                    "serialNo": 4,
+                    "sizeGroup": "",
+                    "size": "TBA",
+                    "qty": 1440
+                }
+            ]
+        },
+        {
+            "externalId": "127341-49143-2470034042",
+            "serialNo": 5,
+            "productId": 2470001,
+            "style": "DM0DM20885-TJM REG POPLIN CHECK LS SHIRT-BULK",
+            "styleNo": "AIPL-SHIRT-CA-35912",
+            "Fit": "",
+            "color": "Black-smallcheck(Black-smallcheck)",
+            "orderQty": 2000,
+            "inseam": "",
+            "destination": "NL",
+            "delMode": "",
+            "exFactoryDate": "2024-09-18T00:00:00",
+            "flowRef": "AIPL-24-25-0474.1.1",
+            "customerFlowRef": "DM0DM20885-TJM REG POPLIN CHECK LS SHIRT-BULK",
+            "extra": 3,
+            "partList": [
+                {
+                    "partName": "Shell",
+                    "placement": "3",
+                    "bomCu": 1.7,
+                    "uom": "meter",
+                    "bomFabricId": 247002465,
+                    "bomFabColor": "BLACK-SMALLCHECK",
+                    "bomFabColorCode": "BLACK-SMALLCHECK",
+                    "fabOrderQty": 3502
+                }
+            ],
+            "sizeBreakupList": [
+                {
+                    "OrderColorSizeID": "127341-49143-2470034042-0",
+                    "serialNo": 5,
+                    "sizeGroup": "",
+                    "size": "TBA",
+                    "qty": 2000
+                }
+            ]
+        },
+        {
+            "externalId": "127341-49143-2470034044",
+            "serialNo": 6,
+            "productId": 2470001,
+            "style": "DM0DM20885-TJM REG POPLIN CHECK LS SHIRT-BULK",
+            "styleNo": "AIPL-SHIRT-CA-35912",
+            "Fit": "",
+            "color": "SweetBlue-SmallCheck(SweetBlue-SmallCheck)",
+            "orderQty": 3200,
+            "inseam": "",
+            "destination": "NL",
+            "delMode": "",
+            "exFactoryDate": "2024-09-18T00:00:00",
+            "flowRef": "AIPL-24-25-0474.1.1",
+            "customerFlowRef": "DM0DM20885-TJM REG POPLIN CHECK LS SHIRT-BULK",
+            "extra": 3,
+            "partList": [
+                {
+                    "partName": "Shell",
+                    "placement": "5",
+                    "bomCu": 1.7,
+                    "uom": "meter",
+                    "bomFabricId": 247002465,
+                    "bomFabColor": "SWEETBLUE-SMALLCHECK",
+                    "bomFabColorCode": "SWEETBLUE-SMALLCHECK",
+                    "fabOrderQty": 5603.2
+                }
+            ],
+            "sizeBreakupList": [
+                {
+                    "OrderColorSizeID": "127341-49143-2470034044-0",
+                    "serialNo": 6,
+                    "sizeGroup": "",
+                    "size": "TBA",
+                    "qty": 3200
+                }
+            ]
+        },
+        {
+            "externalId": "127341-49143-2470034045",
+            "serialNo": 7,
+            "productId": 2470001,
+            "style": "DM0DM20885-TJM REG POPLIN CHECK LS SHIRT-BULK",
+            "styleNo": "AIPL-SHIRT-CA-35912",
+            "Fit": "",
+            "color": "CoastalGreen-SmallCheck(CoastalGreen-SmallCheck)",
+            "orderQty": 1440,
+            "inseam": "",
+            "destination": "NL",
+            "delMode": "",
+            "exFactoryDate": "2024-09-18T00:00:00",
+            "flowRef": "AIPL-24-25-0474.1.1",
+            "customerFlowRef": "DM0DM20885-TJM REG POPLIN CHECK LS SHIRT-BULK",
+            "extra": 3,
+            "partList": [
+                {
+                    "partName": "Shell",
+                    "placement": "10",
+                    "bomCu": 1.7,
+                    "uom": "meter",
+                    "bomFabricId": 247002465,
+                    "bomFabColor": "COASTALGREEN-SMALLCHECK",
+                    "bomFabColorCode": "COASTALGREEN-SMALLCHECK",
+                    "fabOrderQty": 2521.44
+                }
+            ],
+            "sizeBreakupList": [
+                {
+                    "OrderColorSizeID": "127341-49143-2470034045-0",
+                    "serialNo": 7,
+                    "sizeGroup": "",
+                    "size": "TBA",
+                    "qty": 1440
+                }
+            ]
+        },
+        {
+            "externalId": "127341-49143-2470034046",
+            "serialNo": 8,
+            "productId": 2470001,
+            "style": "DM0DM20885-TJM REG POPLIN CHECK LS SHIRT-BULK",
+            "styleNo": "AIPL-SHIRT-CA-35912",
+            "Fit": "",
+            "color": "BrightVermillion-SmallCheck(BrightVermillion-SmallCheck)",
+            "orderQty": 1760,
+            "inseam": "",
+            "destination": "NL",
+            "delMode": "",
+            "exFactoryDate": "2024-09-18T00:00:00",
+            "flowRef": "AIPL-24-25-0474.1.1",
+            "customerFlowRef": "DM0DM20885-TJM REG POPLIN CHECK LS SHIRT-BULK",
+            "extra": 3,
+            "partList": [
+                {
+                    "partName": "Shell",
+                    "placement": "7",
+                    "bomCu": 1.7,
+                    "uom": "meter",
+                    "bomFabricId": 247002465,
+                    "bomFabColor": "BRIGHTVERMILLION-SMALLCHECK",
+                    "bomFabColorCode": "BRIGHTVERMILLION-SMALLCHECK",
+                    "fabOrderQty": 3081.76
+                }
+            ],
+            "sizeBreakupList": [
+                {
+                    "OrderColorSizeID": "127341-49143-2470034046-0",
+                    "serialNo": 8,
+                    "sizeGroup": "",
+                    "size": "TBA",
+                    "qty": 1760
+                }
+            ]
+        },
+        {
+            "externalId": "127341-49143-2470034047",
+            "serialNo": 9,
+            "productId": 2470001,
+            "style": "DM0DM20885-TJM REG POPLIN CHECK LS SHIRT-BULK",
+            "styleNo": "AIPL-SHIRT-CA-35912",
+            "Fit": "",
+            "color": "AncientWhite-BigCheck(AncientWhite-BigCheck)",
+            "orderQty": 2000,
+            "inseam": "",
+            "destination": "NL",
+            "delMode": "",
+            "exFactoryDate": "2024-09-18T00:00:00",
+            "flowRef": "AIPL-24-25-0474.1.1",
+            "customerFlowRef": "DM0DM20885-TJM REG POPLIN CHECK LS SHIRT-BULK",
+            "extra": 3,
+            "partList": [
+                {
+                    "partName": "Shell",
+                    "placement": "1",
+                    "bomCu": 1.83,
+                    "uom": "meter",
+                    "bomFabricId": 247002465,
+                    "bomFabColor": "ANCIENTWHITE-BIGCHECK",
+                    "bomFabColorCode": "ANCIENTWHITE-BIGCHECK",
+                    "fabOrderQty": 3769.8
+                }
+            ],
+            "sizeBreakupList": [
+                {
+                    "OrderColorSizeID": "127341-49143-2470034047-0",
+                    "serialNo": 9,
+                    "sizeGroup": "",
+                    "size": "TBA",
+                    "qty": 2000
+                }
+            ]
+        },
+        {
+            "externalId": "127341-49143-2470034048",
+            "serialNo": 10,
+            "productId": 2470001,
+            "style": "DM0DM20885-TJM REG POPLIN CHECK LS SHIRT-BULK",
+            "styleNo": "AIPL-SHIRT-CA-35912",
+            "Fit": "",
+            "color": "Ecru-BigCheck(Ecru-BigCheck)",
+            "orderQty": 2000,
+            "inseam": "",
+            "destination": "NL",
+            "delMode": "",
+            "exFactoryDate": "2024-09-18T00:00:00",
+            "flowRef": "AIPL-24-25-0474.1.1",
+            "customerFlowRef": "DM0DM20885-TJM REG POPLIN CHECK LS SHIRT-BULK",
+            "extra": 3,
+            "partList": [
+                {
+                    "partName": "Shell",
+                    "placement": "6",
+                    "bomCu": 1.83,
+                    "uom": "meter",
+                    "bomFabricId": 247002465,
+                    "bomFabColor": "ECRU-BIGCHECK",
+                    "bomFabColorCode": "ECRU-BIGCHECK",
+                    "fabOrderQty": 3769.8
+                }
+            ],
+            "sizeBreakupList": [
+                {
+                    "OrderColorSizeID": "127341-49143-2470034048-0",
+                    "serialNo": 10,
+                    "sizeGroup": "",
+                    "size": "TBA",
+                    "qty": 2000
+                }
+            ]
+        }
+    ]
+}
